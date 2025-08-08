@@ -3,7 +3,7 @@
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
-This is a Laravel/PHP project called "spatie-guide-parallel-agents" that includes a comprehensive suite of Spatie guideline enforcement agents and slash commands for code quality.
+This is a Laravel/PHP project called "spatie-guidelines-parallel-agents" that includes a comprehensive suite of Spatie guideline enforcement agents and slash commands for code quality.
 
 ## Initial Setup Commands
 When the Laravel project is initialized, use these commands:
